@@ -26,3 +26,9 @@ const learning = true;
 while (learning) {
   ship(somethingUseful);
 }
+
+Now building: SPYDE — an anti-fraud network intelligence upgrade for UPI risk engines.
+Learning: PyTorch, CycleGANs, computer vision architectures, advanced backend systems.
+Open to: Collaboration on ML models, full-stack web apps, and AI-driven hackathon projects.
+Ask me about: Python, PyTorch, OpenCV, and computer vision fundamentals.
+Fun fact: My models take longer to train than it takes for me to change my mind about a system architecture.
