@@ -13,7 +13,12 @@
 ---
 
 ### About me
+👋 Hi, I'm Ritupragnya Bal
+💻 Computer Science Engineering Student | Developer | AI/ML Enthusiast
 
+B.Tech CSE student passionate about software development, artificial intelligence, and building practical projects.
+
+I enjoy learning new technologies, solving programming problems, and turning ideas into working applications. I'm particularly interested in AI/ML, backend development, and application development.
 ```javascript
 const curiosity = "build";
 const learning = true;
