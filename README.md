@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,6,8&height=180&section=header&text=Ritupragnya%20Bal&fontSize=50&fontColor=fff&fontAlignY=35&desc=Training%20Models%20&%20Translating%20Pixels&descSize=16&descAlignY=55" />
+</div>
 
-<!--
-**ritupragnyabal/ritupragnyabal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Building scalable backends and intelligent systems.</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ritupragnyabal@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="mailto:ritupragnyabal@gmail.com"><img src="https://img.shields.io/badge/ritupragnyabal%40gmail.com-222222?style=for-the-badge"></a>
+  <a href="https://github.com/ritupragnyabal"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://github.com/ritupragnyabal"><img src="https://img.shields.io/badge/ritupragnyabal-222222?style=for-the-badge"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About me
+
+```javascript
+const curiosity = "build";
+const learning = true;
+
+while (learning) {
+  ship(somethingUseful);
+}
