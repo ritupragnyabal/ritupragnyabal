@@ -5,7 +5,7 @@
 <h3 align="center">Building scalable backends and intelligent systems.</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ritupragnyabal"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ritupragnyabal@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a><a href="mailto:ritupragnyabal@gmail.com"><img src="https://img.shields.io/badge/ritupragnyabal%40gmail.com-222222?style=for-the-badge"></a>
   <a href="https://github.com/ritupragnyabal"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"></a><a href="https://github.com/ritupragnyabal"><img src="https://img.shields.io/badge/ritupragnyabal-222222?style=for-the-badge"></a>
 </p>
